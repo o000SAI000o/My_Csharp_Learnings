@@ -1,0 +1,15 @@
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\bin\Debug\net10.0\mycsharpproj.exe
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\bin\Debug\net10.0\mycsharpproj.deps.json
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\bin\Debug\net10.0\mycsharpproj.runtimeconfig.json
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\bin\Debug\net10.0\mycsharpproj.dll
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\bin\Debug\net10.0\mycsharpproj.pdb
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\mycsharpproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\mycsharpproj.AssemblyInfoInputs.cache
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\mycsharpproj.AssemblyInfo.cs
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\mycsharpproj.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\mycsharpproj.sourcelink.json
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\mycsharpproj.dll
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\refint\mycsharpproj.dll
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\mycsharpproj.pdb
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\mycsharpproj.genruntimeconfig.cache
+C:\Users\Vishwajeet\OneDrive\Desktop\C#\mycsharpproj\obj\Debug\net10.0\ref\mycsharpproj.dll
